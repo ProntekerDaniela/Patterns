@@ -1,0 +1,16 @@
+D:\Патерни\Mkr\bin\Debug\Mkr.exe.config
+D:\Патерни\Mkr\bin\Debug\Mkr.exe
+D:\Патерни\Mkr\bin\Debug\Mkr.pdb
+D:\Патерни\Mkr\obj\Debug\Mkr.csproj.AssemblyReference.cache
+D:\Патерни\Mkr\obj\Debug\Mkr.csproj.SuggestedBindingRedirects.cache
+D:\Патерни\Mkr\obj\Debug\Mkr.csproj.CoreCompileInputs.cache
+D:\Патерни\Mkr\obj\Debug\Mkr.exe
+D:\Патерни\Mkr\obj\Debug\Mkr.pdb
+C:\Users\User\Desktop\Mkr\obj\Debug\Mkr.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Mkr\obj\Debug\Mkr.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Mkr\obj\Debug\Mkr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mkr\obj\Debug\Mkr.exe
+C:\Users\User\Desktop\Mkr\obj\Debug\Mkr.pdb
+C:\Users\User\Desktop\Mkr\bin\Debug\Mkr.exe.config
+C:\Users\User\Desktop\Mkr\bin\Debug\Mkr.exe
+C:\Users\User\Desktop\Mkr\bin\Debug\Mkr.pdb
