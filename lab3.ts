@@ -87,18 +87,18 @@ class CensusServiceVisiter implements IBuildingVisitor {
 const buildings: (PrivateBuilding | ApartmentBuilding)[] = [
   new PrivateBuilding([
     {
+      dateOfBirth: '1993-10-11T19:56:13.560Z',
+      fullName: 'Pavlo',
+      sex: 'male',
+    },
+    {
       dateOfBirth: '2003-10-11T19:56:13.560Z',
-      fullName: 'Ivan Ivanov Ivanovich',
-      sex: 'male',
+      fullName: 'Karina',
+      sex: 'female',
     },
     {
-      dateOfBirth: '2020-10-11T19:56:13.560Z',
-      fullName: 'Max',
-      sex: 'male',
-    },
-    {
-      dateOfBirth: '1950-10-11T19:56:13.560Z',
-      fullName: 'Lesya',
+      dateOfBirth: '1990-10-11T19:56:13.560Z',
+      fullName: 'Olexandra',
       sex: 'female',
     },
   ]),
@@ -106,23 +106,23 @@ const buildings: (PrivateBuilding | ApartmentBuilding)[] = [
     {
       residents: [
         {
-          dateOfBirth: '1990-10-11T19:56:13.560Z',
-          fullName: 'Olga',
-          sex: 'female',
+          dateOfBirth: '1986-10-11T19:56:13.560Z',
+          fullName: 'Petro',
+          sex: 'male',
         },
         {
-          dateOfBirth: '2005-10-11T19:56:13.560Z',
-          fullName: 'John',
-          sex: 'unset',
+          dateOfBirth: '2001-10-11T19:56:13.560Z',
+          fullName: 'Anna',
+          sex: 'female',
         },
       ],
     },
     {
       residents: [
         {
-          dateOfBirth: '1999-10-11T19:56:13.560Z',
-          fullName: 'Yuriy',
-          sex: 'male',
+          dateOfBirth: '2009-10-11T19:56:13.560Z',
+          fullName: 'Igor',
+          sex: 'female',
         },
       ],
     },
