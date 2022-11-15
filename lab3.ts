@@ -1,6 +1,6 @@
 type Resident = {
   fullName: string;
-  sex: 'male' | 'female' | 'unset';
+  sex: 'male' | 'female';
   dateOfBirth: string;
 };
 
